@@ -17,10 +17,6 @@
 
   <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-saas.svg?color=00A83A">
 
-  <a href="https://kalvaitir.com/">
-    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
 </p>
 
