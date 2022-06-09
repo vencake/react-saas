@@ -36,7 +36,7 @@ Open terminal:
 
 ```sh
 # Clone this repo
-git clone https://github.com/osvaldokalvaitir/reactjs-saas
+git clone https://github.com/vencake/reactjs-saas
 
 # Entry in folder
 cd reactjs-saas
