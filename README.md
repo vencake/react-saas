@@ -30,7 +30,7 @@
 
 ## :wrench: Install and run
 
-_ps: Before running the app, start the [Node.js - SaaS](https://github.com/osvaldokalvaitir/nodejs-saas) backend._
+_ps: Before running the app, start the [Node.js - SaaS](https://github.com/vencake/nodejs-saas) backend._
 
 Open terminal:
 
